@@ -2,7 +2,7 @@
 
 CaffCode is registered with the [Netherlands Chamber of Commerce (KvK)](https://www.kvk.nl/en/) as a sole proprietorship (eenmanszaak).
 
-Basically, it just me: [@j3lte](https://github.com/j3lte). Check out [the website](https://caffcode.com).
+Basically, it's just me: [@j3lte](https://github.com/j3lte). Check out [the website](https://caffcode.com).
 
 
 ## Imprint
